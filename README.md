@@ -2,7 +2,7 @@
 *코어 자바스크립트* 서적을 읽으며 공부한 내용을 정리합니다 📚  
 공부한 지식을 바탕으로 매주 프론트엔드 모의 면접을 진행합니다 🗣️  
 
-<img width="324" alt="js" src="https://github.com/user-attachments/assets/d5b5b76e-41cf-4852-9c26-6e9491f91919">
+<img width="324" alt="js" src="https://github.com/user-attachments/assets/d445b24e-e10e-4324-a4a8-81b58ed70118">
 
 ## 🗓️ Schedule
 |주차|학습 기간|학습 내용|모의 면접|
